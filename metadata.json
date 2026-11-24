@@ -1,6 +1,0 @@
-{
-  "name": "Aashu AI",
-  "description": "Aashu AI — Bilingual Hindi and English Android AI assistant powered by Gemini.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
