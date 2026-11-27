@@ -9,7 +9,7 @@ import type {
   ModelChoice,
   PersonaMode,
   UiLocale,
-} from "./types/chat";
+} from "./chat";
 import { UI_COPY } from "./constants/prompts";
 import { ChatSidebar } from "./ChatSidebar";
 import { EmptyState } from "./EmptyState";
