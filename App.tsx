@@ -12,7 +12,7 @@ import type {
 } from "./types/chat";
 import { UI_COPY } from "./constants/prompts";
 import { ChatSidebar } from "./ChatSidebar";
-import { EmptyState } from "./components/EmptyState";
+import { EmptyState } from "./EmptyState";
 import { ChatThread } from "./components/ChatThread";
 import { ChatComposer } from "./components/ChatComposer";
 import { VideoGeneratorPage } from "./components/VideoGeneratorPage";
