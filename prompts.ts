@@ -1,4 +1,4 @@
-import type { LanguageMode, PersonaMode, UiLocale } from "../types/chat";
+import type { LanguageMode, PersonaMode, UiLocale } from "../chat";
 
 export interface QuickPrompt {
   id: string;
