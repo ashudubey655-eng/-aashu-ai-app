@@ -15,7 +15,7 @@ import { ChatSidebar } from "./ChatSidebar";
 import { EmptyState } from "./EmptyState";
 import { ChatThread } from "./components/ChatThread";
 import { ChatComposer } from "./components/ChatComposer";
-import { VideoGeneratorPage } from "./components/VideoGeneratorPage";
+import { VideoGeneratorPage } from "./VideoGeneratorPage";
 
 const STORAGE_KEY_CHATS = "aashu_ai_conversations_v1";
 const STORAGE_KEY_THEME = "aashu_ai_theme_v1";
